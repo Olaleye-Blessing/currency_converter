@@ -18,6 +18,9 @@ Created with react, typescript and styled-components
 
 ## How it looks like
 
+<p>
+    <img src="./src/currencyconverter.png">
+</p>
 ### Available Scripts
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
