@@ -1,8 +1,26 @@
-# Getting Started with Create React App
+# Currency Converter
+
+A little application that converts currency.
+Created with react, typescript and styled-components
+
+## Why I built This
+
+-   My goal was to learn typescript and styled-components
+
+## How To navigate
+
+-   It's a one page app with three components
+
+## If I had more time, I would do this
+
+-   look for a better way to use both libraries.
+-   include testing
+
+## How it looks like
+
+### Available Scripts
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
 
 In the project directory, you can run:
 
